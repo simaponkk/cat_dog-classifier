@@ -1,6 +1,7 @@
 โปรเจกต์นี้เป็น Mini Project จัดทำขึ้นเพื่อฝึกฝนโมเดลปัญญาประดิษฐ์ (AI) ในกลุ่ม Deep Learning ให้สามารถแยกแยะความแตกต่างระหว่างรูปภาพของ "สุนัข" และ "แมว"
 โดยมีจุดประสงค์ สร้างโปรเจกต์นี้ขึ้นเพื่อ ฝึกทักษะการพัฒนา AI ในด้าน Computer Vision โดยการจำแนกรูปภาพ Image Classification 
 โปรเจกต์นี้ได้ทำการโหลด Dataset จาก Kaggle (แหล่งที่มาของข้อมูล Cat and Dog Dataset, https://www.kaggle.com/datasets/tongpython/cat-and-dog)
+ผู้ทำได้มีการเรียนรู้เกี่ยวกับ
 - การเตรียมข้อมูลรูปภาพสำหรับ AI
 - การใช้ Transfer Learning ด้วย MobileNetV2
 - การเทรนและประเมินผล Model ด้วย Accuracy และ Loss
